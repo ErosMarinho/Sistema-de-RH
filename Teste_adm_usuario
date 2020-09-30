@@ -67,7 +67,7 @@ if ( !isset($_SESSION['codigoUsuario']) and !isset($_SESSION['senhaUsuario']) ) 
             <!-- sidebar -->
             <div class="column col-sm-3" id="sidebar">
 
-                <img src="images/icone_rh.png"  width="150px" height="150px" > <a class="logo" href="#"><span>Gestão 3LM</span></a>
+                <img src="images/icone_rh.png"  width="150px" height="150px" > <a class="logo" href="#"><span>Gestão RH</span></a>
 
                 <ul class="nav">
                     <li class="active">
@@ -85,7 +85,7 @@ if ( !isset($_SESSION['codigoUsuario']) and !isset($_SESSION['senhaUsuario']) ) 
                 </ul>
                 <ul class="nav hidden-xs" id="sidebar-footer">
                     <li>
-                      <a href="#"><h3>Gestão 3LM</h3>Sistema de Gestão RH</a>
+                      <a href="#"><hr>Gestão RH</h3>Sistema de Gestão RH</a>
                     </li>
                 </ul>
             </div>
@@ -210,7 +210,7 @@ if ( !isset($_SESSION['codigoUsuario']) and !isset($_SESSION['senhaUsuario']) ) 
                       <hr>
 
                       <h3 class="text-center">
-                        <a href="#" target="ext">3LM Gestão</a>
+                        <a href="#" target="ext">RH Gestão</a>
                       </h3>
 
                       <hr>
